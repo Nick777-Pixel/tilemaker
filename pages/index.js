@@ -622,13 +622,13 @@ export default function Home({ prediction, baseUrl }) {
               )}
               <a
                 id="inspire-button"
-                href="https://github.com/replicate/tilemaker"
+                href="https://github.com/"
                 type="button"
                 style={{ fontSize: "0.65rem" }}
                 className="mt-4 text-left inline-flex w-full bg-dark items-center hover:border-white border-transparent rounded-md border-2 text-white px-3 py-2 text-xs font-medium leading-4 shadow-sm focus:outline-none focus:ring-1 focus:ring-offset-2 focus:border-white"
               >
                 <CodeBracketIcon className="h-4 w-4 mr-2" />
-                Are you a developer and want to make your own powered AI app?
+                learn more about AI powered apps!
                 Clone &rarr;
               </a>
             </div>
